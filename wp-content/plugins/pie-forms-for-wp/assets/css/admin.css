@@ -1,0 +1,32 @@
+.notice-launch-info{
+    display: flex;
+}
+.launch-icon {
+    max-width: 20%;
+    margin: 0px 15px;
+}
+.launch-info{
+    width: 80%;
+    margin: 0px 10px;
+}
+.notice-launch-info img {
+    width: 100%;
+    margin-top: 13px;
+}
+.notice-launch-info .underline{
+    text-decoration: underline;
+}
+.launch-info.mailchimp h2 {
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.launch-info.mailchimp p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.launch-icon.mailchimp > img{
+    margin-top: 0px;
+}
+.upgrade-to-pro-banner a img{
+    width: 100%;
+}
